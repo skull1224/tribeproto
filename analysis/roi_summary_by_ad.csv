@@ -1,0 +1,371 @@
+ad,rank_within_ad,region,appearances,unique_predictions,frame_count,frame_fraction,mean_score,max_score,mean_rank
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,1,R Gyrus rectus,30,15,121,0.24793388429752067,2.3400000000000003,3.05,2.933333333333333
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,2,L Gyrus temporal inf,24,12,121,0.19834710743801653,2.2716666666666665,2.47,2.3333333333333335
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,3,L Sulcus orbital med-olfact,20,10,121,0.1652892561983471,2.43,3.1,2.3
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,4,L Gyrus and Sulcus cingul-Ant,20,10,121,0.1652892561983471,2.293,2.86,4.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,5,L Sulcus pericallosal,15,8,121,0.12396694214876033,2.7813333333333334,3.68,2.8666666666666667
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,6,R Sulcus orbital med-olfact,14,7,121,0.11570247933884298,2.2985714285714285,2.45,2.857142857142857
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,7,R Gyrus front sup,14,7,121,0.11570247933884298,2.2671428571428573,2.91,3.7142857142857144
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,8,R Sulcus temporal inf,14,7,121,0.11570247933884298,2.257142857142857,2.32,4.142857142857143
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,9,R Gyrus temp sup-Lateral,12,6,121,0.09917355371900827,2.466666666666667,2.63,4.333333333333333
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,10,L Gyrus rectus,12,6,121,0.09917355371900827,2.375,2.79,5.666666666666667
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,11,R Gyrus temporal inf,12,6,121,0.09917355371900827,2.2483333333333335,2.53,2.1666666666666665
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,12,L Sulcus circular insula ant,11,6,121,0.09090909090909091,2.887272727272727,3.58,2.4545454545454546
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,13,R Gyrus and Sulcus subcentral,10,5,121,0.08264462809917356,2.444,2.63,2.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,14,L Gyrus temp sup-Plan tempo,10,5,121,0.08264462809917356,2.398,2.56,3.8
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,15,L Gyrus temporal middle,10,5,121,0.08264462809917356,2.3920000000000003,2.64,4.8
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,16,L Sulcus temporal inf,10,5,121,0.08264462809917356,2.354,2.55,3.6
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,17,R Gyrus orbital,10,5,121,0.08264462809917356,2.3259999999999996,2.54,4.8
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,18,L Lat Fis-post,10,5,121,0.08264462809917356,2.31,2.48,5.4
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,19,R Gyrus oc-temp med-Parahip,10,5,121,0.08264462809917356,2.256,2.34,3.2
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,20,L Gyrus orbital,10,5,121,0.08264462809917356,2.25,2.43,2.8
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,21,R Sulcus orbital-H Shaped,8,4,121,0.06611570247933884,2.8725,3.28,1.25
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,22,L Sulcus precentral-inf-part,8,4,121,0.06611570247933884,2.3825,2.56,6.25
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,23,R Gyrus temporal middle,8,4,121,0.06611570247933884,2.375,2.6,5.75
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,24,R Gyrus front inf-Orbital,8,4,121,0.06611570247933884,2.3425,2.53,2.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,25,R Sulcus precentral-inf-part,8,4,121,0.06611570247933884,2.3375,2.49,4.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,26,R Sulcus orbital lateral,8,4,121,0.06611570247933884,2.3325,2.56,2.75
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,27,L Gyrus front middle,8,4,121,0.06611570247933884,2.2925,2.39,3.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,28,L Gyrus oc-temp med-Parahip,8,4,121,0.06611570247933884,2.2175,2.42,3.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,29,L Sulcus oc-temp med and Lingual,8,4,121,0.06611570247933884,2.135,2.2,2.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,30,R Sulcus circular insula sup,7,4,121,0.05785123966942149,3.0357142857142856,3.47,5.285714285714286
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,31,R Gyrus and Sulcus frontomargin,7,4,121,0.05785123966942149,2.9728571428571433,3.45,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,32,L Sulcus temporal sup,6,3,121,0.049586776859504134,2.606666666666667,2.69,3.3333333333333335
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,33,L Gyrus temp sup-Lateral,6,3,121,0.049586776859504134,2.5766666666666667,2.65,3.6666666666666665
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,34,R Sulcus temporal transverse,6,3,121,0.049586776859504134,2.4066666666666667,2.6,4.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,35,R Sulcus temporal sup,6,3,121,0.049586776859504134,2.39,2.62,6.333333333333333
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,36,L Gyrus precentral,6,3,121,0.049586776859504134,2.3766666666666665,2.41,6.333333333333333
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,37,L Gyrus cuneus,6,3,121,0.049586776859504134,2.31,2.33,5.666666666666667
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,38,L Sulcus suborbital,6,3,121,0.049586776859504134,2.296666666666667,2.54,7.333333333333333
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,39,R Gyrus front middle,6,3,121,0.049586776859504134,2.25,2.43,3.3333333333333335
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,40,L Gyrus cingul-Post-dorsal,6,3,121,0.049586776859504134,2.2033333333333336,2.22,3.3333333333333335
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,41,L Gyrus pariet inf-Angular,6,3,121,0.049586776859504134,2.203333333333333,2.29,5.666666666666667
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,42,L Gyrus pariet inf-Supramar,6,3,121,0.049586776859504134,2.1999999999999997,2.39,6.666666666666667
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,43,R Sulcus pericallosal,5,3,121,0.04132231404958678,3.4120000000000004,3.58,2.4
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,44,R Gyrus insular short,5,3,121,0.04132231404958678,3.4,3.53,3.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,45,R Gyrus front inf-Opercular,5,3,121,0.04132231404958678,3.2920000000000003,3.44,6.4
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,46,R Gyrus and Sulcus cingul-Mid-Ant,4,2,121,0.03305785123966942,3.3449999999999998,3.42,8.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,47,R Sulcus circular insula ant,4,2,121,0.03305785123966942,2.64,2.66,4.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,48,L Pole temporal,4,2,121,0.03305785123966942,2.525,2.77,7.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,49,L Gyrus and Sulcus subcentral,4,2,121,0.03305785123966942,2.425,2.55,5.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,50,L Sulcus precentral-sup-part,4,2,121,0.03305785123966942,2.385,2.44,5.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,51,R Sulcus oc sup and transversal,4,2,121,0.03305785123966942,2.325,2.34,3.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,52,R Gyrus cuneus,4,2,121,0.03305785123966942,2.3200000000000003,2.35,4.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,53,R Sulcus precentral-sup-part,4,2,121,0.03305785123966942,2.3,2.52,7.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,54,L Gyrus front sup,4,2,121,0.03305785123966942,2.285,2.41,4.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,55,L Gyrus temp sup-Gyrus T transv,4,2,121,0.03305785123966942,2.265,2.43,3.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,56,R Pole temporal,4,2,121,0.03305785123966942,2.25,2.31,5.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,57,L Sulcus front inf,4,2,121,0.03305785123966942,2.2199999999999998,2.36,5.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,58,R Gyrus temp sup-Plan tempo,4,2,121,0.03305785123966942,2.2199999999999998,2.35,6.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,59,R Gyrus precentral,4,2,121,0.03305785123966942,2.205,2.33,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,60,L Sulcus interm prim-Jensen,4,2,121,0.03305785123966942,2.19,2.21,5.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,61,L Sulcus orbital lateral,4,2,121,0.03305785123966942,2.1799999999999997,2.28,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,62,L Sulcus cingul-Marginalis,4,2,121,0.03305785123966942,2.175,2.22,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,63,L Gyrus front inf-Orbital,4,2,121,0.03305785123966942,2.145,2.17,3.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,64,L Sulcus collat transv ant,4,2,121,0.03305785123966942,2.1100000000000003,2.12,2.5
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,65,R Gyrus postcentral,2,1,121,0.01652892561983471,2.62,2.62,3.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,66,R Gyrus and Sulcus cingul-Mid-Post,2,1,121,0.01652892561983471,2.54,2.54,5.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,67,R Gyrus pariet inf-Supramar,2,1,121,0.01652892561983471,2.54,2.54,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,68,R Sulcus central,2,1,121,0.01652892561983471,2.54,2.54,7.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,69,L Sulcus subparietal,2,1,121,0.01652892561983471,2.47,2.47,8.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,70,R Gyrus pariet inf-Angular,2,1,121,0.01652892561983471,2.47,2.47,4.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,71,R Gyrus temp sup-Gyrus T transv,2,1,121,0.01652892561983471,2.41,2.41,3.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,72,L Sulcus circular insula inf,2,1,121,0.01652892561983471,2.31,2.31,8.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,73,L Gyrus oc-temp med-Lingual,2,1,121,0.01652892561983471,2.3,2.3,7.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,74,L Sulcus orbital-H Shaped,2,1,121,0.01652892561983471,2.29,2.29,5.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,75,R Gyrus occipital sup,2,1,121,0.01652892561983471,2.28,2.28,8.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,76,R Gyrus parietal sup,2,1,121,0.01652892561983471,2.24,2.24,7.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,77,L Gyrus and Sulcus transv frontopol,2,1,121,0.01652892561983471,2.23,2.23,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,78,L Gyrus and Sulcus cingul-Mid-Ant,2,1,121,0.01652892561983471,2.22,2.22,8.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,79,R Gyrus and Sulcus cingul-Ant,2,1,121,0.01652892561983471,2.2,2.2,4.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,80,R Gyrus subcallosal,2,1,121,0.01652892561983471,2.17,2.17,6.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,81,R Sulcus collat transv ant,2,1,121,0.01652892561983471,2.15,2.15,2.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,82,L Gyrus front inf-Triangul,2,1,121,0.01652892561983471,2.1,2.1,5.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,83,L Sulcus front sup,2,1,121,0.01652892561983471,2.09,2.09,4.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,84,L Gyrus insular short,1,1,121,0.008264462809917356,2.96,2.96,6.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,1,R Gyrus rectus,38,19,121,0.3140495867768595,2.1273684210526316,2.45,3.526315789473684
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,2,R Gyrus temporal inf,34,17,121,0.2809917355371901,2.038235294117647,2.25,3.588235294117647
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,3,R Gyrus front sup,30,15,121,0.24793388429752067,2.0726666666666667,2.37,4.2
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,4,L Sulcus orbital med-olfact,24,12,121,0.19834710743801653,2.1441666666666666,2.45,4.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,5,R Sulcus orbital med-olfact,24,12,121,0.19834710743801653,2.1350000000000002,2.5,4.083333333333333
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,6,R Gyrus and Sulcus cingul-Ant,24,12,121,0.19834710743801653,2.1216666666666666,2.5,2.6666666666666665
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,7,R Gyrus orbital,22,11,121,0.18181818181818182,2.1236363636363635,2.36,4.2727272727272725
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,8,R Gyrus postcentral,22,11,121,0.18181818181818182,2.016363636363636,2.13,5.181818181818182
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,9,R Lat Fis-post,20,10,121,0.1652892561983471,2.028,2.18,5.1
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,10,L Sulcus pericallosal,19,10,121,0.15702479338842976,2.423157894736842,3.23,3.8947368421052633
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,11,L Sulcus circular insula inf,18,9,121,0.1487603305785124,2.091111111111111,2.38,3.4444444444444446
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,12,L Gyrus precuneus,18,9,121,0.1487603305785124,2.06,2.21,4.444444444444445
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,13,R Sulcus circular insula inf,18,9,121,0.1487603305785124,2.054444444444444,2.21,4.444444444444445
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,14,L Gyrus orbital,18,9,121,0.1487603305785124,2.0277777777777777,2.3,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,15,L Gyrus and Sulcus subcentral,18,9,121,0.1487603305785124,1.9666666666666666,2.07,5.444444444444445
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,16,R Gyrus oc-temp med-Parahip,16,8,121,0.1322314049586777,2.1375,2.34,5.125
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,17,L Gyrus front inf-Triangul,16,8,121,0.1322314049586777,2.0575,2.27,3.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,18,L Gyrus temporal inf,16,8,121,0.1322314049586777,1.9825,2.22,3.125
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,19,R Gyrus and Sulcus subcentral,14,7,121,0.11570247933884298,2.11,2.3,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,20,L Sulcus temporal inf,14,7,121,0.11570247933884298,2.0914285714285716,2.19,4.285714285714286
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,21,L Gyrus rectus,14,7,121,0.11570247933884298,2.0885714285714285,2.2,4.857142857142857
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,22,R Sulcus central,14,7,121,0.11570247933884298,1.9271428571428573,2.02,6.714285714285714
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,23,R Sulcus orbital-H Shaped,12,6,121,0.09917355371900827,2.231666666666667,2.51,4.333333333333333
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,24,L Gyrus temporal middle,12,6,121,0.09917355371900827,2.1633333333333336,2.34,3.8333333333333335
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,25,R Gyrus temp sup-Gyrus T transv,12,6,121,0.09917355371900827,1.9166666666666667,2.0,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,26,R Gyrus temp sup-Plan polar,10,5,121,0.08264462809917356,2.214,2.29,3.6
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,27,L Gyrus pariet inf-Supramar,10,5,121,0.08264462809917356,2.2119999999999997,2.4,2.2
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,28,R Gyrus occipital middle,10,5,121,0.08264462809917356,2.194,2.36,3.2
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,29,L Sulcus orbital-H Shaped,10,5,121,0.08264462809917356,2.152,2.27,6.2
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,30,R Sulcus collat transv ant,10,5,121,0.08264462809917356,2.104,2.28,5.2
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,31,L Lat Fis-ant-Horizont,10,5,121,0.08264462809917356,1.952,2.0,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,32,R Gyrus and Sulcus paracentral,9,5,121,0.0743801652892562,2.072222222222222,2.55,4.222222222222222
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,33,R Gyrus and Sulcus frontomargin,8,4,121,0.06611570247933884,2.625,3.1,5.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,34,L Gyrus subcallosal,8,4,121,0.06611570247933884,2.3575,2.5,1.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,35,L Gyrus cingul-Post-ventral,8,4,121,0.06611570247933884,2.3375,2.51,2.75
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,36,L Gyrus pariet inf-Angular,8,4,121,0.06611570247933884,2.2975,2.42,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,37,L Gyrus occipital middle,8,4,121,0.06611570247933884,2.1475,2.28,5.75
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,38,L Gyrus precentral,8,4,121,0.06611570247933884,2.115,2.18,2.75
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,39,L Lat Fis-post,8,4,121,0.06611570247933884,2.105,2.22,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,40,L Gyrus and Sulcus cingul-Ant,8,4,121,0.06611570247933884,2.0949999999999998,2.28,5.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,41,L Gyrus and Sulcus transv frontopol,8,4,121,0.06611570247933884,2.0875,2.16,6.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,42,R Gyrus temp sup-Plan tempo,8,4,121,0.06611570247933884,2.05,2.17,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,43,R Sulcus front sup,8,4,121,0.06611570247933884,2.035,2.05,5.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,44,L Sulcus circular insula sup,8,4,121,0.06611570247933884,2.0225,2.12,3.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,45,R Gyrus precuneus,8,4,121,0.06611570247933884,2.0175,2.05,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,46,R Gyrus and Sulcus occipital inf,8,4,121,0.06611570247933884,2.005,2.03,6.25
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,47,R Gyrus temp sup-Lateral,8,4,121,0.06611570247933884,1.9875,2.04,4.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,48,R Gyrus and Sulcus cingul-Mid-Ant,7,4,121,0.05785123966942149,2.817142857142857,3.25,4.142857142857143
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,49,L Gyrus front inf-Opercular,7,4,121,0.05785123966942149,2.218571428571429,2.49,5.285714285714286
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,50,R Sulcus subparietal,6,3,121,0.049586776859504134,2.316666666666667,2.45,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,51,L Sulcus calcarine,6,3,121,0.049586776859504134,2.2533333333333334,2.32,4.666666666666667
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,52,R Sulcus occipital ant,6,3,121,0.049586776859504134,2.1366666666666667,2.17,1.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,53,L Gyrus front middle,6,3,121,0.049586776859504134,2.09,2.19,4.333333333333333
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,54,L Sulcus front sup,6,3,121,0.049586776859504134,2.0866666666666664,2.16,5.333333333333333
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,55,L Gyrus temp sup-Plan tempo,6,3,121,0.049586776859504134,2.0833333333333335,2.18,5.666666666666667
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,56,L Sulcus occipital ant,6,3,121,0.049586776859504134,2.0733333333333333,2.11,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,57,R Gyrus oc-temp lat-fusifor,6,3,121,0.049586776859504134,1.9766666666666666,2.02,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,58,R Sulcus front inf,6,3,121,0.049586776859504134,1.9533333333333331,1.99,3.6666666666666665
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,59,R Gyrus subcallosal,6,3,121,0.049586776859504134,1.9266666666666667,2.11,5.333333333333333
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,60,L Sulcus central,6,3,121,0.049586776859504134,1.9000000000000001,1.95,7.666666666666667
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,61,L Gyrus temp sup-Gyrus T transv,6,3,121,0.049586776859504134,1.8499999999999999,1.9,7.666666666666667
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,62,R Gyrus insular short,5,3,121,0.04132231404958678,2.886,3.08,4.2
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,63,L Gyrus and Sulcus cingul-Mid-Ant,4,2,121,0.03305785123966942,2.98,3.12,3.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,64,R Sulcus pericallosal,4,2,121,0.03305785123966942,2.9450000000000003,3.1,5.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,65,R Sulcus interm prim-Jensen,4,2,121,0.03305785123966942,2.75,3.04,6.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,66,R Gyrus cingul-Post-dorsal,4,2,121,0.03305785123966942,2.34,2.46,3.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,67,L Gyrus oc-temp med-Lingual,4,2,121,0.03305785123966942,2.285,2.32,6.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,68,R Sulcus intrapariet and P trans,4,2,121,0.03305785123966942,2.2800000000000002,2.43,6.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,69,R Sulcus calcarine,4,2,121,0.03305785123966942,2.24,2.24,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,70,R Sulcus precentral-inf-part,4,2,121,0.03305785123966942,2.21,2.51,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,71,L Sulcus temporal sup,4,2,121,0.03305785123966942,2.175,2.23,5.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,72,R Gyrus and Sulcus transv frontopol,4,2,121,0.03305785123966942,2.17,2.2,4.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,73,R Sulcus temporal inf,4,2,121,0.03305785123966942,2.085,2.15,4.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,74,R Pole temporal,4,2,121,0.03305785123966942,2.08,2.09,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,75,L Sulcus front inf,4,2,121,0.03305785123966942,2.0300000000000002,2.06,4.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,76,R Gyrus front inf-Triangul,4,2,121,0.03305785123966942,2.025,2.08,5.5
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,77,R Gyrus pariet inf-Angular,4,2,121,0.03305785123966942,2.02,2.14,6.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,78,R Sulcus oc-temp lat,4,2,121,0.03305785123966942,2.0199999999999996,2.03,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,79,R Pole occipital,4,2,121,0.03305785123966942,1.9649999999999999,2.0,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,80,R Sulcus circular insula sup,3,2,121,0.024793388429752067,2.7733333333333334,2.84,3.6666666666666665
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,81,R Gyrus front inf-Opercular,3,2,121,0.024793388429752067,2.676666666666667,2.77,7.333333333333333
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,82,R Sulcus front middle,2,1,121,0.01652892561983471,3.07,3.07,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,83,L Gyrus oc-temp lat-fusifor,2,1,121,0.01652892561983471,2.21,2.21,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,84,R Sulcus parieto occipital,2,1,121,0.01652892561983471,2.16,2.16,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,85,R Gyrus front middle,2,1,121,0.01652892561983471,2.13,2.13,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,86,R Gyrus temporal middle,2,1,121,0.01652892561983471,2.13,2.13,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,87,L Gyrus cingul-Post-dorsal,2,1,121,0.01652892561983471,2.09,2.09,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,88,L Gyrus postcentral,2,1,121,0.01652892561983471,2.07,2.07,3.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,89,L Gyrus and Sulcus cingul-Mid-Post,2,1,121,0.01652892561983471,2.05,2.05,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,90,L Lat Fis-ant-Vertical,2,1,121,0.01652892561983471,2.05,2.05,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,91,L Gyrus parietal sup,2,1,121,0.01652892561983471,2.04,2.04,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,92,L Sulcus cingul-Marginalis,2,1,121,0.01652892561983471,2.02,2.02,4.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,93,L Sulcus orbital lateral,2,1,121,0.01652892561983471,2.01,2.01,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,94,R Sulcus suborbital,2,1,121,0.01652892561983471,2.01,2.01,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,95,L Sulcus suborbital,2,1,121,0.01652892561983471,2.0,2.0,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,96,L Gyrus front sup,2,1,121,0.01652892561983471,1.99,1.99,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,97,L Gyrus temp sup-Plan polar,2,1,121,0.01652892561983471,1.99,1.99,5.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,98,L Gyrus occipital sup,2,1,121,0.01652892561983471,1.98,1.98,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,99,R Gyrus Ins lg and Sulcus cent ins,2,1,121,0.01652892561983471,1.98,1.98,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,100,L Gyrus temp sup-Lateral,2,1,121,0.01652892561983471,1.97,1.97,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,101,L Pole temporal,2,1,121,0.01652892561983471,1.97,1.97,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,102,L Gyrus oc-temp med-Parahip,2,1,121,0.01652892561983471,1.9,1.9,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,103,R Gyrus pariet inf-Supramar,2,1,121,0.01652892561983471,1.9,1.9,6.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,104,L Gyrus and Sulcus paracentral,2,1,121,0.01652892561983471,1.89,1.89,7.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,105,L Sulcus circular insula ant,2,1,121,0.01652892561983471,1.88,1.88,8.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,106,L Gyrus insular short,1,1,121,0.008264462809917356,2.43,2.43,8.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,1,R Gyrus orbital,46,23,121,0.38016528925619836,1.9421739130434783,2.25,3.260869565217391
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,2,L Gyrus rectus,38,19,121,0.3140495867768595,1.9536842105263157,2.15,2.736842105263158
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,3,L Sulcus orbital med-olfact,36,18,121,0.2975206611570248,2.1172222222222223,2.89,2.5555555555555554
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,4,L Gyrus orbital,34,17,121,0.2809917355371901,1.961176470588235,2.31,3.588235294117647
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,5,R Gyrus and Sulcus cingul-Ant,32,16,121,0.2644628099173554,2.01125,2.34,3.6875
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,6,R Gyrus and Sulcus subcentral,24,12,121,0.19834710743801653,2.0875,2.59,4.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,7,L Gyrus temporal inf,22,11,121,0.18181818181818182,2.0054545454545454,2.18,4.2727272727272725
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,8,R Sulcus orbital med-olfact,22,11,121,0.18181818181818182,1.9072727272727272,2.09,4.363636363636363
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,9,R Sulcus pericallosal,19,10,121,0.15702479338842976,2.0826315789473684,2.85,4.947368421052632
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,10,L Sulcus temporal inf,18,9,121,0.1487603305785124,2.0833333333333335,2.27,3.4444444444444446
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,11,L Sulcus front sup,18,9,121,0.1487603305785124,2.0766666666666667,2.7,4.333333333333333
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,12,L Sulcus central,18,9,121,0.1487603305785124,1.9722222222222223,2.08,5.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,13,R Gyrus subcallosal,18,9,121,0.1487603305785124,1.948888888888889,2.22,3.6666666666666665
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,14,R Gyrus temporal inf,18,9,121,0.1487603305785124,1.8411111111111111,1.92,5.444444444444445
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,15,R Sulcus central,16,8,121,0.1322314049586777,1.93,2.04,4.875
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,16,R Gyrus rectus,16,8,121,0.1322314049586777,1.91375,1.99,3.75
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,17,R Sulcus temporal sup,15,8,121,0.12396694214876033,2.0,2.54,5.6
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,18,L Sulcus circular insula sup,14,7,121,0.11570247933884298,2.3985714285714286,3.16,4.571428571428571
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,19,R Sulcus temporal inf,14,7,121,0.11570247933884298,2.0914285714285716,2.29,1.8571428571428572
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,20,R Gyrus precuneus,14,7,121,0.11570247933884298,2.03,2.23,4.142857142857143
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,21,R Gyrus temporal middle,14,7,121,0.11570247933884298,1.9657142857142857,2.11,4.142857142857143
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,22,R Gyrus front sup,14,7,121,0.11570247933884298,1.8985714285714284,2.04,4.857142857142857
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,23,R Sulcus circular insula sup,13,7,121,0.10743801652892562,2.3584615384615386,3.19,4.384615384615385
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,24,R Gyrus pariet inf-Supramar,12,6,121,0.09917355371900827,1.9866666666666666,2.06,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,25,R Sulcus oc-temp lat,12,6,121,0.09917355371900827,1.9466666666666665,2.03,3.5
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,26,L Sulcus front inf,12,6,121,0.09917355371900827,1.9233333333333331,2.31,5.166666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,27,L Gyrus and Sulcus subcentral,10,5,121,0.08264462809917356,2.058,2.14,6.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,28,L Gyrus Ins lg and Sulcus cent ins,10,5,121,0.08264462809917356,2.04,2.1,3.2
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,29,R Gyrus and Sulcus transv frontopol,10,5,121,0.08264462809917356,1.9579999999999997,2.05,4.2
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,30,L Gyrus precuneus,10,5,121,0.08264462809917356,1.954,2.02,7.2
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,31,R Gyrus and Sulcus frontomargin,9,5,121,0.0743801652892562,2.535555555555556,3.1,6.555555555555555
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,32,L Sulcus pericallosal,9,5,121,0.0743801652892562,2.5155555555555558,3.15,5.777777777777778
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,33,R Gyrus oc-temp med-Parahip,9,5,121,0.0743801652892562,2.074444444444444,2.55,2.7777777777777777
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,34,L Sulcus orbital-H Shaped,9,5,121,0.0743801652892562,1.8922222222222222,2.39,5.333333333333333
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,35,L Gyrus temporal middle,8,4,121,0.06611570247933884,2.11,2.27,2.25
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,36,L Gyrus insular short,8,4,121,0.06611570247933884,2.11,2.17,2.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,37,R Lat Fis-post,8,4,121,0.06611570247933884,2.1,2.55,4.25
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,38,L Gyrus and Sulcus transv frontopol,8,4,121,0.06611570247933884,2.0575,2.18,2.25
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,39,L Gyrus front middle,8,4,121,0.06611570247933884,2.03,2.09,3.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,40,L Gyrus cingul-Post-dorsal,8,4,121,0.06611570247933884,2.0175,2.12,3.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,41,R Gyrus cingul-Post-dorsal,8,4,121,0.06611570247933884,2.0149999999999997,2.09,4.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,42,R Gyrus pariet inf-Angular,8,4,121,0.06611570247933884,2.0,2.02,2.75
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,43,R Sulcus subparietal,8,4,121,0.06611570247933884,1.9675,2.08,5.25
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,44,R Sulcus front sup,8,4,121,0.06611570247933884,1.94,2.01,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,45,L Sulcus circular insula inf,8,4,121,0.06611570247933884,1.86,1.98,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,46,L Gyrus temp sup-Lateral,8,4,121,0.06611570247933884,1.855,1.9,4.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,47,L Gyrus oc-temp med-Parahip,8,4,121,0.06611570247933884,1.8525,1.98,6.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,48,L Pole temporal,8,4,121,0.06611570247933884,1.7875,1.81,5.75
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,49,R Lat Fis-ant-Horizont,6,3,121,0.049586776859504134,2.97,3.32,1.3333333333333333
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,50,R Gyrus insular short,6,3,121,0.049586776859504134,2.92,3.26,3.3333333333333335
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,51,L Gyrus and Sulcus cingul-Mid-Ant,6,3,121,0.049586776859504134,2.4499999999999997,2.58,1.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,52,L Gyrus parietal sup,6,3,121,0.049586776859504134,2.1366666666666667,2.19,3.3333333333333335
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,53,R Gyrus front middle,6,3,121,0.049586776859504134,2.1366666666666667,2.17,2.3333333333333335
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,54,R Gyrus and Sulcus paracentral,6,3,121,0.049586776859504134,2.03,2.07,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,55,L Gyrus postcentral,6,3,121,0.049586776859504134,1.9933333333333334,2.02,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,56,L Gyrus and Sulcus paracentral,6,3,121,0.049586776859504134,1.9633333333333332,1.98,5.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,57,L Sulcus intrapariet and P trans,6,3,121,0.049586776859504134,1.96,2.02,5.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,58,L Sulcus temporal sup,6,3,121,0.049586776859504134,1.9400000000000002,1.97,6.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,59,L Gyrus and Sulcus cingul-Ant,6,3,121,0.049586776859504134,1.9166666666666667,2.11,4.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,60,R Gyrus temp sup-Plan polar,6,3,121,0.049586776859504134,1.8033333333333335,1.84,5.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,61,R Gyrus oc-temp lat-fusifor,6,3,121,0.049586776859504134,1.8,1.82,4.333333333333333
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,62,R Sulcus orbital-H Shaped,6,3,121,0.049586776859504134,1.7533333333333332,1.76,5.666666666666667
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,63,R Gyrus and Sulcus cingul-Mid-Ant,4,2,121,0.03305785123966942,3.02,3.15,6.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,64,R Gyrus front inf-Opercular,4,2,121,0.03305785123966942,2.8499999999999996,3.17,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,65,L Gyrus front inf-Orbital,4,2,121,0.03305785123966942,2.275,2.53,6.5
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,66,L Gyrus and Sulcus cingul-Mid-Post,4,2,121,0.03305785123966942,2.0549999999999997,2.1,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,67,R Sulcus interm prim-Jensen,4,2,121,0.03305785123966942,2.045,2.05,6.5
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,68,R Gyrus Ins lg and Sulcus cent ins,4,2,121,0.03305785123966942,2.0149999999999997,2.03,5.5
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,69,L Sulcus precentral-inf-part,4,2,121,0.03305785123966942,2.0,2.02,5.5
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,70,R Gyrus temp sup-Lateral,4,2,121,0.03305785123966942,1.995,2.0,4.5
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,71,L Sulcus calcarine,4,2,121,0.03305785123966942,1.975,1.99,2.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,72,L Sulcus suborbital,4,2,121,0.03305785123966942,1.94,2.01,6.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,73,L Sulcus subparietal,4,2,121,0.03305785123966942,1.9,1.92,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,74,R Pole temporal,4,2,121,0.03305785123966942,1.745,1.75,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,75,R Sulcus circular insula inf,3,2,121,0.024793388429752067,1.9433333333333334,2.39,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,76,L Lat Fis-ant-Vertical,2,1,121,0.01652892561983471,2.6,2.6,2.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,77,R Gyrus postcentral,2,1,121,0.01652892561983471,2.16,2.16,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,78,L Lat Fis-ant-Horizont,2,1,121,0.01652892561983471,2.15,2.15,2.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,79,R Gyrus cingul-Post-ventral,2,1,121,0.01652892561983471,2.14,2.14,3.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,80,R Gyrus temp sup-Plan tempo,2,1,121,0.01652892561983471,2.11,2.11,6.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,81,R Gyrus and Sulcus cingul-Mid-Post,2,1,121,0.01652892561983471,2.09,2.09,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,82,L Lat Fis-post,2,1,121,0.01652892561983471,1.95,1.95,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,83,R Sulcus calcarine,2,1,121,0.01652892561983471,1.95,1.95,8.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,84,R Sulcus intrapariet and P trans,2,1,121,0.01652892561983471,1.95,1.95,8.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,85,L Gyrus cuneus,2,1,121,0.01652892561983471,1.94,1.94,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,86,R Gyrus precentral,2,1,121,0.01652892561983471,1.94,1.94,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,87,R Sulcus precentral-inf-part,2,1,121,0.01652892561983471,1.94,1.94,8.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,88,L Gyrus and Sulcus frontomargin,2,1,121,0.01652892561983471,1.92,1.92,5.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,89,R Sulcus cingul-Marginalis,2,1,121,0.01652892561983471,1.9,1.9,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,90,R Sulcus precentral-sup-part,2,1,121,0.01652892561983471,1.9,1.9,6.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,91,L Gyrus front inf-Triangul,2,1,121,0.01652892561983471,1.88,1.88,3.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,92,L Sulcus parieto occipital,2,1,121,0.01652892561983471,1.85,1.85,7.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,93,L Gyrus pariet inf-Angular,2,1,121,0.01652892561983471,1.83,1.83,8.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,94,R Sulcus suborbital,2,1,121,0.01652892561983471,1.81,1.81,6.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,1,R Gyrus rectus,22,11,61,0.36065573770491804,1.8027272727272725,2.3,3.909090909090909
+The_Choice_Pepsi_Super_Bowl_20260429_022611,2,L Gyrus front middle,20,10,61,0.32786885245901637,1.797,1.93,4.4
+The_Choice_Pepsi_Super_Bowl_20260429_022611,3,L Gyrus orbital,16,8,61,0.26229508196721313,1.7,1.83,4.625
+The_Choice_Pepsi_Super_Bowl_20260429_022611,4,L Gyrus front inf-Triangul,14,7,61,0.22950819672131148,1.7957142857142858,2.01,4.857142857142857
+The_Choice_Pepsi_Super_Bowl_20260429_022611,5,L Gyrus rectus,14,7,61,0.22950819672131148,1.78,1.88,3.5714285714285716
+The_Choice_Pepsi_Super_Bowl_20260429_022611,6,L Gyrus temporal middle,14,7,61,0.22950819672131148,1.7128571428571429,1.86,4.714285714285714
+The_Choice_Pepsi_Super_Bowl_20260429_022611,7,R Gyrus orbital,14,7,61,0.22950819672131148,1.6742857142857144,1.83,4.285714285714286
+The_Choice_Pepsi_Super_Bowl_20260429_022611,8,L Pole temporal,14,7,61,0.22950819672131148,1.6642857142857144,1.82,5.285714285714286
+The_Choice_Pepsi_Super_Bowl_20260429_022611,9,L Gyrus oc-temp med-Parahip,13,7,61,0.21311475409836064,1.8723076923076922,2.52,3.923076923076923
+The_Choice_Pepsi_Super_Bowl_20260429_022611,10,R Pole temporal,12,6,61,0.19672131147540983,2.046666666666667,2.41,3.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,11,R Gyrus temp sup-Plan tempo,12,6,61,0.19672131147540983,2.0033333333333334,2.45,3.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,12,R Gyrus oc-temp med-Parahip,12,6,61,0.19672131147540983,1.9116666666666668,2.4,5.333333333333333
+The_Choice_Pepsi_Super_Bowl_20260429_022611,13,L Gyrus front inf-Opercular,10,5,61,0.16393442622950818,1.8579999999999999,2.06,4.4
+The_Choice_Pepsi_Super_Bowl_20260429_022611,14,L Sulcus collat transv ant,10,5,61,0.16393442622950818,1.7600000000000002,2.12,5.6
+The_Choice_Pepsi_Super_Bowl_20260429_022611,15,L Gyrus front sup,10,5,61,0.16393442622950818,1.6800000000000002,1.87,3.2
+The_Choice_Pepsi_Super_Bowl_20260429_022611,16,R Gyrus temporal middle,8,4,61,0.13114754098360656,1.95,2.27,4.75
+The_Choice_Pepsi_Super_Bowl_20260429_022611,17,R Gyrus pariet inf-Supramar,8,4,61,0.13114754098360656,1.905,2.58,4.25
+The_Choice_Pepsi_Super_Bowl_20260429_022611,18,R Gyrus subcallosal,8,4,61,0.13114754098360656,1.69,1.85,4.25
+The_Choice_Pepsi_Super_Bowl_20260429_022611,19,R Sulcus collat transv ant,8,4,61,0.13114754098360656,1.615,1.84,7.75
+The_Choice_Pepsi_Super_Bowl_20260429_022611,20,R Gyrus and Sulcus frontomargin,7,4,61,0.11475409836065574,2.367142857142857,2.47,4.428571428571429
+The_Choice_Pepsi_Super_Bowl_20260429_022611,21,R Sulcus orbital lateral,6,3,61,0.09836065573770492,2.1366666666666667,2.18,4.666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,22,R Sulcus orbital-H Shaped,6,3,61,0.09836065573770492,2.0766666666666667,2.48,2.6666666666666665
+The_Choice_Pepsi_Super_Bowl_20260429_022611,23,L Gyrus precentral,6,3,61,0.09836065573770492,1.93,2.03,3.3333333333333335
+The_Choice_Pepsi_Super_Bowl_20260429_022611,24,L Sulcus temporal inf,6,3,61,0.09836065573770492,1.9033333333333333,2.06,1.6666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,25,L Pole occipital,6,3,61,0.09836065573770492,1.8566666666666667,2.12,2.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,26,R Pole occipital,6,3,61,0.09836065573770492,1.8233333333333333,1.94,1.6666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,27,L Sulcus front inf,6,3,61,0.09836065573770492,1.8166666666666667,1.92,6.666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,28,L Sulcus oc-temp lat,6,3,61,0.09836065573770492,1.8,1.98,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,29,L Sulcus circular insula sup,6,3,61,0.09836065573770492,1.7866666666666664,1.92,1.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,30,L Gyrus and Sulcus cingul-Ant,6,3,61,0.09836065573770492,1.7633333333333334,1.8,1.6666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,31,R Gyrus and Sulcus cingul-Ant,6,3,61,0.09836065573770492,1.72,1.77,4.333333333333333
+The_Choice_Pepsi_Super_Bowl_20260429_022611,32,R Sulcus cingul-Marginalis,6,3,61,0.09836065573770492,1.6933333333333334,1.84,6.666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,33,L Sulcus oc-temp med and Lingual,6,3,61,0.09836065573770492,1.6900000000000002,1.8,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,34,L Sulcus orbital med-olfact,6,3,61,0.09836065573770492,1.6166666666666665,1.69,6.666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,35,L Sulcus suborbital,6,3,61,0.09836065573770492,1.6033333333333333,1.67,7.666666666666667
+The_Choice_Pepsi_Super_Bowl_20260429_022611,36,L Gyrus and Sulcus frontomargin,5,3,61,0.08196721311475409,2.164,2.48,4.4
+The_Choice_Pepsi_Super_Bowl_20260429_022611,37,R Sulcus orbital med-olfact,5,3,61,0.08196721311475409,2.0460000000000003,2.31,5.6
+The_Choice_Pepsi_Super_Bowl_20260429_022611,38,R Sulcus front sup,4,2,61,0.06557377049180328,2.545,2.64,1.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,39,R Gyrus front inf-Opercular,4,2,61,0.06557377049180328,2.435,2.47,3.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,40,R Sulcus circular insula sup,4,2,61,0.06557377049180328,2.385,2.46,6.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,41,R Sulcus postcentral,4,2,61,0.06557377049180328,2.3150000000000004,2.43,5.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,42,R Gyrus oc-temp lat-fusifor,4,2,61,0.06557377049180328,2.115,2.24,3.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,43,R Sulcus intrapariet and P trans,4,2,61,0.06557377049180328,2.0700000000000003,2.29,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,44,R Gyrus temp sup-Gyrus T transv,4,2,61,0.06557377049180328,2.035,2.1,2.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,45,L Gyrus pariet inf-Angular,4,2,61,0.06557377049180328,1.9899999999999998,2.03,1.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,46,L Gyrus temp sup-Lateral,4,2,61,0.06557377049180328,1.9649999999999999,2.02,4.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,47,R Gyrus and Sulcus cingul-Mid-Post,4,2,61,0.06557377049180328,1.955,2.36,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,48,R Gyrus temp sup-Lateral,4,2,61,0.06557377049180328,1.9249999999999998,2.01,7.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,49,L Gyrus front inf-Orbital,4,2,61,0.06557377049180328,1.85,2.1,7.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,50,L Sulcus temporal sup,4,2,61,0.06557377049180328,1.85,1.93,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,51,R Sulcus temporal inf,4,2,61,0.06557377049180328,1.8399999999999999,1.89,2.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,52,L Gyrus temporal inf,4,2,61,0.06557377049180328,1.76,1.91,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,53,R Gyrus pariet inf-Angular,4,2,61,0.06557377049180328,1.755,1.77,3.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,54,R Gyrus postcentral,4,2,61,0.06557377049180328,1.725,1.73,6.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,55,L Sulcus postcentral,4,2,61,0.06557377049180328,1.7,1.74,6.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,56,R Gyrus and Sulcus transv frontopol,4,2,61,0.06557377049180328,1.685,1.71,5.5
+The_Choice_Pepsi_Super_Bowl_20260429_022611,57,L Sulcus pericallosal,4,2,61,0.06557377049180328,1.6749999999999998,1.68,5.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,58,L Sulcus circular insula ant,4,2,61,0.06557377049180328,1.66,1.68,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,59,R Sulcus calcarine,3,2,61,0.04918032786885246,2.6166666666666667,2.83,1.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,60,L Sulcus calcarine,3,2,61,0.04918032786885246,2.4366666666666665,2.55,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,61,L Sulcus orbital-H Shaped,2,1,61,0.03278688524590164,2.45,2.45,3.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,62,R Gyrus temporal inf,2,1,61,0.03278688524590164,2.33,2.33,2.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,63,R Gyrus precentral,2,1,61,0.03278688524590164,2.31,2.31,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,64,R Gyrus parietal sup,2,1,61,0.03278688524590164,2.22,2.22,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,65,L Sulcus orbital lateral,2,1,61,0.03278688524590164,2.14,2.14,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,66,R Gyrus front inf-Orbital,2,1,61,0.03278688524590164,2.11,2.11,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,67,R Sulcus temporal transverse,2,1,61,0.03278688524590164,2.04,2.04,3.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,68,R Sulcus oc-temp lat,2,1,61,0.03278688524590164,1.85,1.85,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,69,R Sulcus front inf,2,1,61,0.03278688524590164,1.83,1.83,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,70,R Gyrus front sup,2,1,61,0.03278688524590164,1.78,1.78,3.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,71,L Gyrus oc-temp lat-fusifor,2,1,61,0.03278688524590164,1.77,1.77,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,72,L Gyrus parietal sup,2,1,61,0.03278688524590164,1.76,1.76,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,73,L Sulcus interm prim-Jensen,2,1,61,0.03278688524590164,1.74,1.74,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,74,L Lat Fis-ant-Vertical,2,1,61,0.03278688524590164,1.73,1.73,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,75,R Sulcus central,2,1,61,0.03278688524590164,1.73,1.73,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,76,R Lat Fis-ant-Horizont,2,1,61,0.03278688524590164,1.71,1.71,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,77,L Sulcus precentral-inf-part,2,1,61,0.03278688524590164,1.7,1.7,4.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,78,L Sulcus cingul-Marginalis,2,1,61,0.03278688524590164,1.69,1.69,5.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,79,L Gyrus postcentral,2,1,61,0.03278688524590164,1.67,1.67,6.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,80,R Gyrus Ins lg and Sulcus cent ins,2,1,61,0.03278688524590164,1.66,1.66,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,81,R Gyrus front inf-Triangul,2,1,61,0.03278688524590164,1.66,1.66,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,82,L Sulcus circular insula inf,2,1,61,0.03278688524590164,1.57,1.57,7.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,83,R Sulcus oc-temp med and Lingual,2,1,61,0.03278688524590164,1.56,1.56,8.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,84,R Sulcus circular insula inf,2,1,61,0.03278688524590164,1.55,1.55,6.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,85,R Sulcus pericallosal,1,1,61,0.01639344262295082,2.33,2.33,6.0
+The_Choice_Pepsi_Super_Bowl_20260429_022611,86,L Sulcus central,1,1,61,0.01639344262295082,2.31,2.31,7.0
