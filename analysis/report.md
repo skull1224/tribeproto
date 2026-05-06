@@ -1,6 +1,6 @@
 # TRIBE Ad Brain-Pattern Analysis
 
-- Generated: 2026-05-06T09:57:27
+- Generated: 2026-05-06T10:10:50
 - Input root: `/Users/seong-yeob/Downloads/tribeproto`
 - Interpretation note: these are TRIBE model-predicted fMRI-like responses, not direct experimental fMRI measurements.
 
@@ -83,6 +83,8 @@
 - Valid NPZ prediction files: 51
 - Included ads missing NPZ files: 0
 - NPZ files should contain either a `preds` or `predictions` array with shape `n_predictions x n_features`.
+- Per-ad brain surface maps are written to `figures/ad_brain_maps/`.
+- Per-ad Destrieux ROI bar charts are written to `figures/ad_top_rois/`.
 
 | Ad | NPZ status | Array key | Preds shape | Validation |
 | --- | --- | --- | --- | --- |
@@ -180,3 +182,5 @@
 - `figures/roi_heatmap_by_ad.png`
 - `figures/ad_similarity_heatmap.png` when NPZ data is available
 - `figures/common_mean_brain_map.png` when NPZ data is available
+- `figures/ad_brain_maps/*.png` when NPZ data is available
+- `figures/ad_top_rois/*.png` when NPZ ROI data is available
