@@ -85,6 +85,8 @@
 - NPZ files should contain either a `preds` or `predictions` array with shape `n_predictions x n_features`.
 - Per-ad brain surface maps are written to `figures/ad_brain_maps/`.
 - Per-ad Destrieux ROI bar charts are written to `figures/ad_top_rois/`.
+- Slide-13-style activation-flow charts are written to `figures/activation_flow_100pct/`.
+- Six-chart activation-flow pages are written to `figures/activation_flow_pages/`.
 
 | Ad | NPZ status | Array key | Preds shape | Validation |
 | --- | --- | --- | --- | --- |
@@ -175,6 +177,8 @@
 - `roi_summary_by_ad.csv`
 - `manifest_summary.csv`
 - `npz_status.csv`
+- `activation_flow_100pct.csv`
+- `activation_flow_summary.csv`
 - `ad_similarity.csv` when NPZ data is available
 - `npz_roi_summary_by_ad.csv` when NPZ data is available
 - `npz_roi_summary_common.csv` when NPZ data is available
@@ -184,3 +188,5 @@
 - `figures/common_mean_brain_map.png` when NPZ data is available
 - `figures/ad_brain_maps/*.png` when NPZ data is available
 - `figures/ad_top_rois/*.png` when NPZ ROI data is available
+- `figures/activation_flow_100pct/*.png` when NPZ data is available
+- `figures/activation_flow_pages/*.png` when NPZ data is available
