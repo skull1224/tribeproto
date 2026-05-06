@@ -1,0 +1,12 @@
+﻿type,start,duration,timeline,subject,session,task,run,filepath,frequency,offset,stop,text,sequence_id,sentence,language,sentence_char,text_char,context,modality
+Audio,0.0,30.09,default,default,,,,/content/drive/MyDrive/tribetest/17~28/Backstory   Levi’s® Behind Every Original.wav,44100.0,0.0,30.09,,,,,,,,
+Video,0.0,30.09,default,default,,,,/content/drive/MyDrive/tribetest/17~28/Backstory   Levi’s® Behind Every Original.mp4,23.976023976023978,0.0,30.09,,,,,,,,
+Sentence,6.556999,0.8000019999999998,default,default,,,,,,,7.357001,I feel good!. ,,,,,,,
+Text,6.557,1.5410000000000004,default,default,,,,,,,8.098,I feel good!. Sing it now!,0.0,,english,,,,
+Word,6.557,0.1999999999999993,default,default,,,,,,,6.757,I,0.0,I feel good!. ,english,0.0,0.0,I,
+Word,6.917,0.28000000000000025,default,default,,,,,,,7.197,feel,0.0,I feel good!. ,english,2.0,2.0,I feel,
+Word,7.217,0.14000000000000057,default,default,,,,,,,7.357,good!,0.0,I feel good!. ,english,7.0,7.0,I feel good!,
+Sentence,7.376999,0.7210020000000009,default,default,,,,,,,8.098001,Sing it now!,,,,,,,
+Word,7.377,0.3210000000000006,default,default,,,,,,,7.698,Sing,1.0,Sing it now!,english,0.0,14.0,I feel good!. Sing,
+Word,7.718,0.05999999999999961,default,default,,,,,,,7.778,it,1.0,Sing it now!,english,5.0,19.0,I feel good!. Sing it,
+Word,7.838,0.2600000000000007,default,default,,,,,,,8.098,now!,1.0,Sing it now!,english,8.0,22.0,I feel good!. Sing it now!,

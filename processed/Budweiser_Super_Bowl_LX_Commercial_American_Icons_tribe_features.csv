@@ -1,0 +1,8 @@
+﻿video_id,window,start_sec,end_sec,n_timesteps,mean_abs_response,peak_abs_response,response_std,response_delta,peak_sec,word_count,speech_seconds,transcript_excerpt
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,intro_3s,0.0,3.0,3,0.0716477558016777,0.6078809499740601,0.1049443930387497,0.01226779818534851,2.0,0,0.0,
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,intro_10s,0.0,10.0,10,0.09661547094583511,0.7465019822120667,0.13710276782512665,0.029394090175628662,7.0,7,1.9820000000000002,Because I'm as free as a bird
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,block_000_030,0.0,30.0,30,0.09400640428066254,0.7970758676528931,0.12637367844581604,0.050622306764125824,29.0,11,3.342999999999999,Because I'm as free as a bird now And this purchase
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,block_030_060,30.0,60.0,30,0.11885961145162582,1.2942960262298584,0.1613125503063202,0.016710728406906128,35.0,6,2.4450000000000003,You crying? Signs in my eyes.
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,block_060_060,60.0,60.12,1,0.25227710604667664,1.4116580486297607,0.323782354593277,0.0,60.0,0,0.0,
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,ending_10s,50.12,60.12,10,0.1163545623421669,1.4116580486297607,0.1666390597820282,0.1861281394958496,60.0,6,2.4450000000000003,You crying? Signs in my eyes.
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,full_video,0.0,60.12,61,0.10882388800382614,1.4116580486297607,0.15022632479667664,0.18475468456745148,60.0,17,5.787999999999999,Because I'm as free as a bird now And this purchase You crying? Signs in my eyes.

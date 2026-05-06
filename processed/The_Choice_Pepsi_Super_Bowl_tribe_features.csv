@@ -1,0 +1,7 @@
+﻿video_id,window,start_sec,end_sec,n_timesteps,mean_abs_response,peak_abs_response,response_std,response_delta,peak_sec,word_count,speech_seconds,transcript_excerpt
+The_Choice_Pepsi_Super_Bowl,intro_3s,0.0,3.0,3,0.09219400584697723,0.5739379525184631,0.12720391154289246,-0.0027917400002479553,1.0,0,0.0,
+The_Choice_Pepsi_Super_Bowl,intro_10s,0.0,10.0,10,0.1182825043797493,0.9118184447288513,0.15341033041477203,0.057527124881744385,6.0,11,2.104,"Huh? You're not the only one. Look, this can be heavy."
+The_Choice_Pepsi_Super_Bowl,block_000_030,0.0,30.0,30,0.1453799307346344,1.0832916498184204,0.17791926860809326,0.02609545737504959,15.0,11,2.104,"Huh? You're not the only one. Look, this can be heavy."
+The_Choice_Pepsi_Super_Bowl,block_030_030,30.0,30.09,1,0.22053927183151245,1.0980851650238037,0.253282368183136,0.0,30.0,0,0.0,
+The_Choice_Pepsi_Super_Bowl,ending_10s,20.09,30.09,10,0.15087111294269562,1.0980851650238037,0.18201607465744019,0.06469042599201202,30.0,0,0.0,
+The_Choice_Pepsi_Super_Bowl,full_video,0.0,30.09,31,0.14780442416667938,1.0980851650238037,0.18084125220775604,0.12765812873840332,30.0,11,2.104,"Huh? You're not the only one. Look, this can be heavy."

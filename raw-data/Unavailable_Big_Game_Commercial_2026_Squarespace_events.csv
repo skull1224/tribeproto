@@ -1,0 +1,11 @@
+﻿type,start,duration,timeline,subject,session,task,run,filepath,frequency,offset,stop,text,sequence_id,sentence,language,sentence_char,text_char,context,modality
+Audio,0.0,37.11,default,default,,,,/content/drive/MyDrive/연선 tribe/New project/Unavailable   Big Game Commercial 2026   Squarespace.wav,44100.0,0.0,37.11,,,,,,,,
+Video,0.0,37.11,default,default,,,,/content/drive/MyDrive/연선 tribe/New project/Unavailable   Big Game Commercial 2026   Squarespace.mp4,24.0,0.0,37.11,,,,,,,,
+Sentence,2.9039989999999998,1.5220020000000003,default,default,,,,,,,4.426001,"Please, please, please. ",,,,,,,
+Text,2.904,2.263,default,default,,,,,,,5.167,"Please, please, please. Please, please",0.0,,english,,,,
+Word,2.904,0.4410000000000003,default,default,,,,,,,3.345,"Please,",0.0,"Please, please, please. ",english,0.0,0.0,"Please,",
+Word,3.365,0.7610000000000001,default,default,,,,,,,4.126,"please,",0.0,"Please, please, please. ",english,8.0,8.0,"Please, please,",
+Word,4.146,0.28000000000000025,default,default,,,,,,,4.426,please.,0.0,"Please, please, please. ",english,16.0,16.0,"Please, please, please.",
+Sentence,4.445999,0.721002,default,default,,,,,,,5.167001,"Please, please",,,,,,,
+Word,4.446,0.3810000000000002,default,default,,,,,,,4.827,"Please,",1.0,"Please, please",english,0.0,24.0,"Please, please, please. Please,",
+Word,4.867,0.2999999999999998,default,default,,,,,,,5.167,please.,1.0,"Please, please",english,8.0,32.0,"Please, please, please. Please, please",

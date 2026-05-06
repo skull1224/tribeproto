@@ -1,5 +1,7 @@
 ad,manifest_path,frame_count,prediction_count,first_time_sec,last_time_sec
-Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035,/Users/seong-yeob/Downloads/tribeproto/Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035/manifest.csv,121,61,0.0,60.0
-Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425,/Users/seong-yeob/Downloads/tribeproto/Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425/manifest.csv,121,61,0.0,60.0
-LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322,/Users/seong-yeob/Downloads/tribeproto/LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322/manifest.csv,121,61,0.0,60.0
-The_Choice_Pepsi_Super_Bowl_20260429_022611,/Users/seong-yeob/Downloads/tribeproto/The_Choice_Pepsi_Super_Bowl_20260429_022611/manifest.csv,61,31,0.0,30.0
+Budweiser_Super_Bowl_LX_Commercial_American_Icons,/Users/seong-yeob/Downloads/tribeproto/brain_frames_0p5s/Budweiser_Super_Bowl_LX_Commercial_American_Icons_20260429_061035/manifest.csv,121,61,0.0,60.0
+Considering_What_Paris_2024_Paralympic_Games,/Users/seong-yeob/Downloads/tribeproto/brain_frames_0p5s/Considering_What_Paris_2024_Paralympic_Games_20260429_194951/manifest.csv,281,228,0.0,140.0
+Good_Will_Dunkin,/Users/seong-yeob/Downloads/tribeproto/brain_frames_0p5s/Good_Will_Dunkin_20260428_133358/manifest.csv,5,3,0.0,2.0
+Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity,/Users/seong-yeob/Downloads/tribeproto/brain_frames_0p5s/Jurassic_Park..._Works_Big_Game_Commercial_2026_Xfinity_20260429_064425/manifest.csv,121,61,0.0,60.0
+LAY_S_Last_Harvest_Super_Bowl_LX_Commercial,/Users/seong-yeob/Downloads/tribeproto/brain_frames_0p5s/LAY_S_Last_Harvest_Super_Bowl_LX_Commercial_20260429_015322/manifest.csv,121,61,0.0,60.0
+The_Choice_Pepsi_Super_Bowl,/Users/seong-yeob/Downloads/tribeproto/brain_frames_0p5s/The_Choice_Pepsi_Super_Bowl_20260429_022611/manifest.csv,61,31,0.0,30.0

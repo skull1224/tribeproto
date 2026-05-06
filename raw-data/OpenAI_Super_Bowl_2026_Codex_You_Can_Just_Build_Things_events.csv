@@ -1,0 +1,7 @@
+﻿type,start,duration,timeline,subject,session,task,run,filepath,frequency,offset,stop,text,sequence_id,sentence,language,sentence_char,text_char,context,modality
+Audio,0.0,60.12,default,default,,,,/content/drive/MyDrive/연선 tribe/New project/OpenAI Super Bowl 2026   Codex   You Can Just Build Things.wav,44100.0,0.0,60.12,,,,,,,,
+Video,0.0,60.12,default,default,,,,/content/drive/MyDrive/연선 tribe/New project/OpenAI Super Bowl 2026   Codex   You Can Just Build Things.mp4,23.976023976023978,0.0,60.12,,,,,,,,
+Sentence,6.227999,0.48000200000000043,default,default,,,,,,,6.708001,Thank you,,,,,,,
+Text,6.228,0.4800000000000004,default,default,,,,,,,6.708,Thank you,0.0,,english,,,,
+Word,6.228,0.2999999999999998,default,default,,,,,,,6.528,Thank,0.0,Thank you,english,0.0,0.0,Thank,
+Word,6.548,0.16000000000000014,default,default,,,,,,,6.708,you.,0.0,Thank you,english,6.0,6.0,Thank you,
